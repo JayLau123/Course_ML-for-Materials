@@ -1,7 +1,7 @@
 # Machine-Learning-for-Materials
 Courses summary(Instructor: Logan Ward)
 
-Main topics:
+### Main topics:
 
 Natural Language Processing for reading papers
 
@@ -21,3 +21,10 @@ Interatomic potentials and machine learning
 
 Representations for materials(inorganic)
 
+Kernel methods for molecular machine learning
+
+Chemoinformatics
+
+Supervised learning on materials data
+
+Reproducibility
